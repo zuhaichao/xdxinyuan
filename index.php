@@ -7,7 +7,10 @@
 		<style type="text/css">
 		body
 		{ 
-		background-image:url(img/1.jpg);background-repeat: no-repeat;
+		background-image:url(img/1.jpg);
+		background-repeat: no-repeat;
+		background-position:top;
+		
 		}
 		</style>
 	</head>

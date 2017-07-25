@@ -9,7 +9,7 @@
 	}
 	form.pos_abs{
 		
-			position: absolute;
+		position: absolute;
 		left: 530px;
 		top: 100px;
 	}
